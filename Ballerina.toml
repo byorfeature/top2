@@ -1,9 +1,0 @@
-[build-options]
-  observabilityIncluded = true
-
-[package]
-  distribution = "2201.0.1"
-  export = ["default_webhook_cq"]
-  name = "default_webhook_cq"
-  org = "isurupiyarathnarucji"
-
